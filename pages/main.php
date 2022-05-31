@@ -17,10 +17,10 @@
 <body>
 <?php include "pages/components/header.php"?>
 
-<!-- Page content -->
+
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
 
-    <!-- Automatic Slideshow Images -->
+
     <div class="mySlides w3-display-container w3-center">
         <img src="https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg" style="width:100%">
         <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
@@ -29,7 +29,7 @@
         </div>
     </div>
 
-    <!-- The Tour Section -->
+
     <div class="w3-black" id="tour">
         <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
             <h2 class="w3-wide w3-center">Hello</h2>
@@ -73,7 +73,7 @@
         </div>
     </div>
 
-    <!-- Ticket Modal -->
+
     <div id="ticketModal" class="w3-modal">
         <div class="w3-modal-content w3-animate-top w3-card-4">
             <header class="w3-container w3-teal w3-center w3-padding-32">

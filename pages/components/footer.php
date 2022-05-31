@@ -1,5 +1,5 @@
 
-<!-- The Contact Section -->
+
 <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
     <h2 class="w3-wide w3-center">CONTACT US</h2>
     <p class="w3-opacity w3-center"><i>Leave you </i></p>
@@ -26,12 +26,12 @@
     </div>
 </div>
 
-<!-- End Page Content -->
+
 </div>
 
-<!-- Image of location/map -->
 
-<!-- Footer -->
+
+
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
     <i class="fa fa-instagram w3-hover-opacity"></i>

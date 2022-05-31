@@ -9,9 +9,7 @@
 </head>
 <style>
     @import url("https://fonts.googleapis.com/css2?family=Tourney:wght@900&display=swap");
-    /*
-    font-family: 'Tourney', cursive;
-    */
+
 
     * {
         margin: 0;
